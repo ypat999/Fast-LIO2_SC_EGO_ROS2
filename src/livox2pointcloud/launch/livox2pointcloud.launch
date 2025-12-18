@@ -1,4 +1,0 @@
-<launch>
-    <node name = "livox2pointcloud" pkg = "livox2pointcloud" type = "livox2pointcloud_node" output = "screen">
-    </node>
-</launch>
